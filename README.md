@@ -3,10 +3,13 @@
 Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 
 **Meus interesses pessoais:**
+
 🥁 Meus hobbies são tocar bateria e assistir um bom filme;
 
 👨🏼‍💻 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor;
+
 📝 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+
 ✉️ Por favor, envie um email para **[ebedmilson48@gmail.com](mailto:ebedmilson48@gmail.com)** para me encontrar.
 
 ## Linguagens e ferramentas:
