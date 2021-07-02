@@ -12,7 +12,7 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 ## Linguagens e ferramentas:
 
 
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg=80x)
 [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =80x)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) 
 [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =80x)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 [![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg =80x)](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
