@@ -11,6 +11,7 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 
 ## Linguagens e ferramentas:
 
+<p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80" style="display:inline">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" style="display:inline">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" style="display:inline">
@@ -18,6 +19,7 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="80" style="display:inline">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" style="display:inline">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" style="display:inline">
+</p>
 
 
 ### Vamos nos conectar?
