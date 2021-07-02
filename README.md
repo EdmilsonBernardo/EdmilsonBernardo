@@ -12,13 +12,12 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 ## Linguagens e ferramentas:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80">
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) 
-[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-[![redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
-[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-[![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80">
 
 
 ### Vamos nos conectar?
