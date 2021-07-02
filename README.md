@@ -16,6 +16,6 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 
 ### Vamos nos conectar?
 
-[![Twitter Badge](https://img.shields.io/badge/-@edmilsonnt-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Edmilson%20Bernardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Instagram Badge](https://img.shields.io/badge/-@edmilsonnt-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/edmilsonnt/)](https://www.instagram.com/edmilsonnt/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Edmilson%20Bernardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edmilsonbernardont/)](https://www.linkedin.com/in/edmilsonbernardont/) 
 [![Gmail Badge](https://img.shields.io/badge/-ebedmilson48@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebedmilson48@gmail.com)](mailto:ebedmilson48@gmail.com)
