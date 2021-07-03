@@ -27,3 +27,8 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 [![Instagram Badge](https://img.shields.io/badge/-@edmilsonnt-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/edmilsonnt/)](https://www.instagram.com/edmilsonnt/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Edmilson%20Bernardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edmilsonbernardont/)](https://www.linkedin.com/in/edmilsonbernardont/) 
 [![Gmail Badge](https://img.shields.io/badge/-devedmilson@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devedmilson@gmail.com)](mailto:devedmilson@gmail.com)
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmilsonBernardo&show_icons=true&theme=dracula)
+
