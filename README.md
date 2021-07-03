@@ -7,7 +7,7 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 * 🥁 Meus hobbies são tocar bateria, assistir um bom filme e viajar;
 * 👨🏼‍💻 Estou sempre em busca de conhecimento para evoluir na minha carreira de desenvolvedor;
 * 📝 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-* ✉️ Por favor, envie um email para **[ebedmilson48@gmail.com](mailto:ebedmilson48@gmail.com)** para me encontrar.
+* ✉️ Por favor, envie um email para **[devedmilson@gmail.com](mailto:devedmilson@gmail.com)** para me encontrar.
 
 ## Linguagens e ferramentas:
 
@@ -26,4 +26,4 @@ Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
 
 [![Instagram Badge](https://img.shields.io/badge/-@edmilsonnt-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/edmilsonnt/)](https://www.instagram.com/edmilsonnt/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Edmilson%20Bernardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edmilsonbernardont/)](https://www.linkedin.com/in/edmilsonbernardont/) 
-[![Gmail Badge](https://img.shields.io/badge/-ebedmilson48@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebedmilson48@gmail.com)](mailto:ebedmilson48@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-devedmilson@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devedmilson@gmail.com)](mailto:devedmilson@gmail.com)
