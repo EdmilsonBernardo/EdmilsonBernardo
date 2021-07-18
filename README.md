@@ -1,6 +1,6 @@
 # Olá, Seja bem vindo!
 
-Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil.
+Me chamo **Edmilson Bernardo**, sou de Fortaleza-CE, brasil. Atualmente estudo Desenvolvimento Web Full-Stack na [TRYBE](https://www.linkedin.com/school/betrybe/).
 
 **Meus interesses pessoais:**
 
